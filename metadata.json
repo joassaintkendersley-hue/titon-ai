@@ -1,0 +1,6 @@
+{
+  "name": "TITON AI",
+  "description": "Professional AI video generation platform. Turn your imagination into cinematic videos with text-to-video, image-to-video, NatCash payments, and studio dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
